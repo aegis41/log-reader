@@ -1,0 +1,5 @@
+2022-09-01 13:20:08,177 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSubjectByImageData @SubjectKey = 5944864 @StartRow = 1 @EndRow = 10 -- Success! -- 25ms2022-09-01 13:20:22,252 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSubjectByImageData @SubjectKey = 1003337 @StartRow = 1 @EndRow = 10 -- Success! -- 4ms{
+  "filename": "C:\Projects\log-reader\files\biolinkid_test.log",
+  "logsInFile": 762,
+  "searchLogsInFile": 2
+}

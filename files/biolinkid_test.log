@@ -1,0 +1,1525 @@
+2022-09-01 08:23:43,524 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION -- Success! -- 18ms
+
+2022-09-01 08:23:44,179 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION_DOMAINNAME -- Success! -- 4ms
+
+2022-09-01 08:23:44,179 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION_CONTAINER -- Success! -- 0ms
+
+2022-09-01 08:23:45,329 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = Domain Users -- Success! -- 2ms
+
+2022-09-01 08:23:45,394 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL SP Collab EGuide Read -- Success! -- 0ms
+
+2022-09-01 08:23:45,394 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL SP Read -- Success! -- 0ms
+
+2022-09-01 08:23:45,399 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS HP3000 QA Testers -- Success! -- 0ms
+
+2022-09-01 08:23:45,399 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BPD VENTURE -- Success! -- 0ms
+
+2022-09-01 08:23:45,404 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS ISSUE DB -- Success! -- 0ms
+
+2022-09-01 08:23:45,404 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VSD USETAXREPORTS USER -- Success! -- 0ms
+
+2022-09-01 08:23:45,409 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL COLDReports -- Success! -- 0ms
+
+2022-09-01 08:23:45,409 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL COLD USERS -- Success! -- 0ms
+
+2022-09-01 08:23:45,414 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL PROJLIBLIB -- Success! -- 0ms
+
+2022-09-01 08:23:45,414 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS STAFF -- Success! -- 0ms
+
+2022-09-01 08:23:45,419 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL CTS DelEditAll -- Success! -- 0ms
+
+2022-09-01 08:23:45,419 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS PAS -- Success! -- 0ms
+
+2022-09-01 08:23:45,419 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = ATS Admin -- Success! -- 0ms
+
+2022-09-01 08:23:45,424 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ATS ADMIN -- Success! -- 0ms
+
+2022-09-01 08:23:45,424 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS NMVTIS -- Success! -- 0ms
+
+2022-09-01 08:23:45,429 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BI REPORT USER -- Success! -- 2ms
+
+2022-09-01 08:23:45,429 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS IRURTS DB RW -- Success! -- 0ms
+
+2022-09-01 08:23:45,434 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL vsdVehicleDealerPermitsManagerTestUsers -- Success! -- 0ms
+
+2022-09-01 08:23:45,439 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS VEHICLES -- Success! -- 1ms
+
+2022-09-01 08:23:45,439 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = IS IMAGES Users -- Success! -- 0ms
+
+2022-09-01 08:23:45,444 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BPD VENTURE QA -- Success! -- 0ms
+
+2022-09-01 08:23:45,444 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL VS AGENTS RO -- Success! -- 1ms
+
+2022-09-01 08:23:45,449 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS AGENTS DB -- Success! -- 1ms
+
+2022-09-01 08:23:45,449 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL VEHRECORDS RO -- Success! -- 0ms
+
+2022-09-01 08:23:45,449 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IMG GRP5 -- Success! -- 0ms
+
+2022-09-01 08:23:45,454 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DS IMGSQUEUE -- Success! -- 0ms
+
+2022-09-01 08:23:45,454 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS Internal Apps -- Success! -- 0ms
+
+2022-09-01 08:23:45,459 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL VE EditAll -- Success! -- 0ms
+
+2022-09-01 08:23:45,459 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL IMG GRP5 -- Success! -- 0ms
+
+2022-09-01 08:23:45,464 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS PROJ OFF -- Success! -- 0ms
+
+2022-09-01 08:23:45,464 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS PPO RecRet RO -- Success! -- 1ms
+
+2022-09-01 08:23:45,469 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL VAMS Auditor -- Success! -- 0ms
+
+2022-09-01 08:23:45,469 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ISD InternetHelp ADMIN -- Success! -- 0ms
+
+2022-09-01 08:23:45,474 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DTSSupervisorQA -- Success! -- 1ms
+
+2022-09-01 08:23:45,474 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS ICVS READONLY -- Success! -- 0ms
+
+2022-09-01 08:23:45,479 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL CAASIntUsersTest -- Success! -- 0ms
+
+2022-09-01 08:23:45,479 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL vsdVehicleDealerPermitsManagerUsers -- Success! -- 0ms
+
+2022-09-01 08:23:45,484 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = WebMastersVS -- Success! -- 0ms
+
+2022-09-01 08:23:45,484 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ATS WTSUsersTest -- Success! -- 0ms
+
+2022-09-01 08:23:45,489 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ATS WTSAdmins -- Success! -- 0ms
+
+2022-09-01 08:23:45,489 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ISD InternetHelp ADMIN Test -- Success! -- 0ms
+
+2022-09-01 08:23:45,489 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL QFlow LSR -- Success! -- 0ms
+
+2022-09-01 08:23:45,494 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ATS WTSAdminsTest -- Success! -- 0ms
+
+2022-09-01 08:23:45,494 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS ICVS QA UPDATE -- Success! -- 0ms
+
+2022-09-01 08:23:45,499 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL QA VEHICLE -- Success! -- 0ms
+
+2022-09-01 08:23:45,499 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VE EDITALL -- Success! -- 0ms
+
+2022-09-01 08:23:45,504 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL vsdVFSDataWarehouse Test Users -- Success! -- 0ms
+
+2022-09-01 08:23:45,504 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS ICVS UPDATE -- Success! -- 0ms
+
+2022-09-01 08:23:45,509 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS IMAGESCAN -- Success! -- 0ms
+
+2022-09-01 08:23:45,509 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL QA VESSEL -- Success! -- 0ms
+
+2022-09-01 08:23:45,514 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = SQL VS USS TEST -- Success! -- 0ms
+
+2022-09-01 08:23:45,514 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL PROJECT STAFF -- Success! -- 0ms
+
+2022-09-01 08:23:45,519 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS Quality Assurance Section -- Success! -- 0ms
+
+2022-09-01 08:23:45,519 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL DL All Information Services -- Success! -- 0ms
+
+2022-09-01 08:23:45,519 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL Electronic Title Needs -- Success! -- 0ms
+
+2022-09-01 08:23:45,524 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BPD VENDEV -- Success! -- 1ms
+
+2022-09-01 08:23:45,524 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS PC_APPS -- Success! -- 0ms
+
+2022-09-01 08:23:45,529 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL PLANNING OFF -- Success! -- 0ms
+
+2022-09-01 08:23:45,529 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DS SYSTEMS RO -- Success! -- 0ms
+
+2022-09-01 08:23:45,534 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VVOS Report Users Test -- Success! -- 0ms
+
+2022-09-01 08:23:45,534 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL Project Server Users -- Success! -- 0ms
+
+2022-09-01 08:23:45,539 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS HP3000 DOL QA Testers -- Success! -- 0ms
+
+2022-09-01 08:23:45,539 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BPD VentureUsers -- Success! -- 0ms
+
+2022-09-01 08:23:45,544 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS TFS Contributors -- Success! -- 0ms
+
+2022-09-01 08:23:45,544 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS IMAGELIB -- Success! -- 1ms
+
+2022-09-01 08:23:45,549 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS MONORULE -- Success! -- 0ms
+
+2022-09-01 08:23:45,549 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS PTRUSERS -- Success! -- 0ms
+
+2022-09-01 08:23:45,549 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS CCC -- Success! -- 0ms
+
+2022-09-01 08:23:45,554 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS FEEDSTMIG -- Success! -- 0ms
+
+2022-09-01 08:23:45,554 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS VSCOMPROJ -- Success! -- 1ms
+
+2022-09-01 08:23:45,559 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL Project VS-ICVS -- Success! -- 0ms
+
+2022-09-01 08:23:45,559 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS VEH IPO -- Success! -- 0ms
+
+2022-09-01 08:23:45,564 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS VINPROJ -- Success! -- 0ms
+
+2022-09-01 08:23:45,564 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS TPAB -- Success! -- 0ms
+
+2022-09-01 08:23:45,569 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS Production NMVTIS Disaster Recovery Inquiry Report -- Success! -- 0ms
+
+2022-09-01 08:23:45,569 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS DLR DIST -- Success! -- 0ms
+
+2022-09-01 08:23:45,574 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = VS PAPERLESS -- Success! -- 0ms
+
+2022-09-01 08:23:45,574 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS PL NMVTIS -- Success! -- 0ms
+
+2022-09-01 08:23:45,579 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VPN VOIP Users -- Success! -- 1ms
+
+2022-09-01 08:23:45,579 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BPD PRJ SUP -- Success! -- 0ms
+
+2022-09-01 08:23:45,579 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VehDataCounts Report Users Test -- Success! -- 0ms
+
+2022-09-01 08:23:45,584 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS VSPTR DB -- Success! -- 0ms
+
+2022-09-01 08:23:45,584 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VS 2005 Leg -- Success! -- 0ms
+
+2022-09-01 08:23:45,599 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BTM DEVELOPERS -- Success! -- 0ms
+
+2022-09-01 08:23:45,599 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRV CIS Weblink Users -- Success! -- 0ms
+
+2022-09-01 08:23:45,604 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRV CIS BioLink Users -- Success! -- 0ms
+
+2022-09-01 08:23:45,604 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL SP EPM Contribute -- Success! -- 0ms
+
+2022-09-01 08:23:45,604 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL DL DRIVES Drivers Team -- Success! -- 0ms
+
+2022-09-01 08:23:45,609 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRIVES Production Support -- Success! -- 0ms
+
+2022-09-01 08:23:45,609 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL DRIVES R2 Help -- Success! -- 0ms
+
+2022-09-01 08:23:45,614 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL DL IS DRIVES Testers -- Success! -- 0ms
+
+2022-09-01 08:23:45,614 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL ISD Testing Group -- Success! -- 0ms
+
+2022-09-01 08:23:45,619 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL Azure MFA Users -- Success! -- 0ms
+
+2022-09-01 08:23:45,619 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL DL All WFSE -- Success! -- 0ms
+
+2022-09-01 08:23:45,624 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL-M365-EnterprisePremium -- Success! -- 0ms
+
+2022-09-01 08:23:45,624 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL-M365-EMSPremium -- Success! -- 1ms
+
+2022-09-01 08:23:45,629 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL Teams Chat Retention 2 -- Success! -- 0ms
+
+2022-09-01 08:23:46,710 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = Group_ed0ae8a4-b828-4bbc-b6c4-69e151923fef -- Success! -- 1ms
+
+2022-09-01 08:23:46,710 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL WF Payment Gateways -- Success! -- 0ms
+
+2022-09-01 08:23:46,750 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = HYancey -- Success! -- 11ms
+
+2022-09-01 08:23:46,805 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @UserID = 1034 -- Success! -- 2ms
+
+2022-09-01 08:23:46,815 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetPermission @GroupID = 1 -- Success! -- 4ms
+
+2022-09-01 08:23:46,815 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @InGroups = 1 -- Success! -- 2ms
+
+2022-09-01 08:23:46,820 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetPermission @GroupID = 3 -- Success! -- 1ms
+
+2022-09-01 08:23:46,820 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @InGroups = 3 -- Success! -- 1ms
+
+2022-09-01 08:23:46,825 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetPermission @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 08:23:46,910 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpSaveAudit @IP = 192.168.206.1 @DateEvent = 9/1/2022 8:23:46 AM @ApplicationID = 1 @UserID = 1034 @EventCategoryID = 2 @SummaryID = 7 @Object = 1034 @ObjectName = hyancey -- Success! -- 7ms
+
+2022-09-01 08:23:47,065 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetEngine @Active = True @Dll =  -- Success! -- 1ms
+
+2022-09-01 08:23:47,065 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @EngineID = 8 -- Success! -- 1ms
+
+2022-09-01 08:23:47,070 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetEngineFeatures @EngineID = 8 -- Success! -- 0ms
+
+2022-09-01 08:23:47,676 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = CREATE_SHARED_ADHOC_INVESTIGATION -- Success! -- 1ms
+
+2022-09-01 08:23:47,706 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = hyancey -- Success! -- 1ms
+
+2022-09-01 08:23:47,711 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 08:23:47,711 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 08:23:47,716 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationRetained @MaxRetainedDays = 2 @UserID = 1034 -- Success! -- 0ms
+
+2022-09-01 08:23:47,721 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser -- Success! -- 2ms
+
+2022-09-01 08:23:47,771 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationState -- Success! -- 0ms
+
+2022-09-01 08:23:47,776 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationResult -- Success! -- 0ms
+
+2022-09-01 08:23:47,781 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationType -- Success! -- 0ms
+
+2022-09-01 08:23:47,786 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetQueue -- Success! -- 0ms
+
+2022-09-01 08:23:50,466 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigation @InvestigationID =  @InvestigationIDs =  @InvestigationTypeID =  @Description =  @InvestigationStateID = 1 @AllNoneAssigned = 1 @StartRow = 1 @EndRow = 10 @LogedUser = 1034 -- Success! -- 29ms
+
+2022-09-01 08:23:50,501 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 433829a2-f73a-4183-8cdf-d55644574fdd -- Success! -- 4ms
+
+2022-09-01 08:23:50,516 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1933 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:50,521 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 4b1abda4-a1b2-423c-a2d8-6a1dc4572a08 -- Success! -- 2ms
+
+2022-09-01 08:23:50,521 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1932 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,526 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9880b601-0f25-4e7b-9f2c-758e50a0f163 -- Success! -- 2ms
+
+2022-09-01 08:23:50,526 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1931 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,531 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 19cade8e-2256-4077-8d2b-722387e0f539 -- Success! -- 2ms
+
+2022-09-01 08:23:50,531 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1930 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,536 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = d31c91a5-b08d-46bc-abdf-864bde946dbf -- Success! -- 2ms
+
+2022-09-01 08:23:50,536 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1929 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:50,541 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b23f988-a0e6-4019-88d4-26f933817174 -- Success! -- 2ms
+
+2022-09-01 08:23:50,541 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1928 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,546 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b18222a-d37c-4944-b7db-09222ec10a72 -- Success! -- 2ms
+
+2022-09-01 08:23:50,546 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1927 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,551 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 1da18b4a-c723-45b6-a66c-f4c373886376 -- Success! -- 2ms
+
+2022-09-01 08:23:50,551 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1926 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,556 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 26b65acd-0788-4f27-bafb-e429498f2deb -- Success! -- 2ms
+
+2022-09-01 08:23:50,561 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1925 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:50,561 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 646593cd-3e50-44e7-bfff-6539eec1c102 -- Success! -- 2ms
+
+2022-09-01 08:23:50,566 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1924 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:50,586 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 143718df-fac8-4d6e-b2f9-cecd318d2f66 -- Success! -- 1ms
+
+2022-09-01 08:23:50,586 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 65c7ffcb-5624-49e7-b8ff-a3ea0ddc4637 -- Success! -- 1ms
+
+2022-09-01 08:23:50,591 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = fc32c5fe-da9e-45e1-a505-aa387c4f80d0 -- Success! -- 1ms
+
+2022-09-01 08:23:50,591 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = d7b073f0-351b-460d-b0a9-9c60562a9a01 -- Success! -- 1ms
+
+2022-09-01 08:23:50,591 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 318b7914-850c-4816-9ce0-5a089d8d3a9f -- Success! -- 1ms
+
+2022-09-01 08:23:50,596 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = bd997a4f-5c2d-4e25-a6c1-0d180df46163 -- Success! -- 1ms
+
+2022-09-01 08:23:50,596 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 4c8edd4e-2aa9-466e-b2ed-f94884f46d8d -- Success! -- 1ms
+
+2022-09-01 08:23:50,596 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = c3bf0d44-21aa-4be0-bfdc-3e9a1f4e7a04 -- Success! -- 1ms
+
+2022-09-01 08:23:50,601 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = a170fa96-3ec5-4ddd-8ab7-c3799a9e2c0e -- Success! -- 1ms
+
+2022-09-01 08:23:50,601 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 62b7cb67-8328-467f-bd75-d406a367c145 -- Success! -- 1ms
+
+2022-09-01 08:23:50,737 [32] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 9ms
+
+2022-09-01 08:23:50,782 [55] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 10ms
+
+2022-09-01 08:23:50,877 [54] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 9ms
+
+2022-09-01 08:23:50,998 [81] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 10ms
+
+2022-09-01 08:23:51,003 [81] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 1ms
+
+2022-09-01 08:23:51,098 [54] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 10ms
+
+2022-09-01 08:23:51,243 [32] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageField -- Success! -- 1ms
+
+2022-09-01 08:23:51,503 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigation @InvestigationID =  @InvestigationIDs =  @InvestigationTypeID =  @Description =  @InvestigationStateID = 1 @AllNoneAssigned = 1 @StartRow = 1 @EndRow = 10 @LogedUser = 1034 @CustomField1Id = 8 @CustomField2Id = 3 @CustomField3Id = 4 @CustomField4Id = 2 @CustomField5Id = 6 -- Success! -- 30ms
+
+2022-09-01 08:23:51,503 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 433829a2-f73a-4183-8cdf-d55644574fdd -- Success! -- 2ms
+
+2022-09-01 08:23:51,508 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1933 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:51,513 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 4b1abda4-a1b2-423c-a2d8-6a1dc4572a08 -- Success! -- 2ms
+
+2022-09-01 08:23:51,513 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1932 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:51,518 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9880b601-0f25-4e7b-9f2c-758e50a0f163 -- Success! -- 2ms
+
+2022-09-01 08:23:51,518 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1931 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:51,523 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 19cade8e-2256-4077-8d2b-722387e0f539 -- Success! -- 2ms
+
+2022-09-01 08:23:51,523 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1930 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:51,528 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = d31c91a5-b08d-46bc-abdf-864bde946dbf -- Success! -- 2ms
+
+2022-09-01 08:23:51,533 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1929 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:51,533 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b23f988-a0e6-4019-88d4-26f933817174 -- Success! -- 2ms
+
+2022-09-01 08:23:51,538 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1928 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:51,538 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b18222a-d37c-4944-b7db-09222ec10a72 -- Success! -- 2ms
+
+2022-09-01 08:23:51,543 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1927 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:51,543 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 1da18b4a-c723-45b6-a66c-f4c373886376 -- Success! -- 2ms
+
+2022-09-01 08:23:51,548 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1926 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 08:23:51,548 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 26b65acd-0788-4f27-bafb-e429498f2deb -- Success! -- 2ms
+
+2022-09-01 08:23:51,553 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1925 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:51,553 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 646593cd-3e50-44e7-bfff-6539eec1c102 -- Success! -- 2ms
+
+2022-09-01 08:23:51,558 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1924 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 08:23:51,558 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 143718df-fac8-4d6e-b2f9-cecd318d2f66 -- Success! -- 1ms
+
+2022-09-01 08:23:51,563 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 65c7ffcb-5624-49e7-b8ff-a3ea0ddc4637 -- Success! -- 1ms
+
+2022-09-01 08:23:51,563 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = fc32c5fe-da9e-45e1-a505-aa387c4f80d0 -- Success! -- 1ms
+
+2022-09-01 08:23:51,563 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = d7b073f0-351b-460d-b0a9-9c60562a9a01 -- Success! -- 1ms
+
+2022-09-01 08:23:51,568 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 318b7914-850c-4816-9ce0-5a089d8d3a9f -- Success! -- 1ms
+
+2022-09-01 08:23:51,568 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = bd997a4f-5c2d-4e25-a6c1-0d180df46163 -- Success! -- 1ms
+
+2022-09-01 08:23:51,568 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 4c8edd4e-2aa9-466e-b2ed-f94884f46d8d -- Success! -- 1ms
+
+2022-09-01 08:23:51,573 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = c3bf0d44-21aa-4be0-bfdc-3e9a1f4e7a04 -- Success! -- 1ms
+
+2022-09-01 08:23:51,573 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = a170fa96-3ec5-4ddd-8ab7-c3799a9e2c0e -- Success! -- 1ms
+
+2022-09-01 08:23:51,573 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 62b7cb67-8328-467f-bd75-d406a367c145 -- Success! -- 1ms
+
+2022-09-01 08:23:51,578 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 1ms
+
+2022-09-01 08:23:51,578 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,583 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,583 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,583 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,583 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,588 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,588 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,588 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,593 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 08:23:51,668 [55] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 10ms
+
+2022-09-01 08:23:51,698 [81] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 9ms
+
+2022-09-01 08:23:52,183 [53] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1034 -- Success! -- 10ms
+
+2022-09-01 13:15:34,827 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = DOL\SSpring -- Success! -- 29ms
+
+2022-09-01 13:15:34,867 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION -- Success! -- 1ms
+
+2022-09-01 13:15:35,002 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION_DOMAINNAME -- Success! -- 1ms
+
+2022-09-01 13:15:35,002 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION_CONTAINER -- Success! -- 0ms
+
+2022-09-01 13:15:35,502 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = Domain Users -- Success! -- 1ms
+
+2022-09-01 13:15:35,537 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = IDL LSR User -- Success! -- 0ms
+
+2022-09-01 13:15:35,542 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL QFlow LSR -- Success! -- 2ms
+
+2022-09-01 13:15:35,542 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL SP Collab SR Contribute -- Success! -- 0ms
+
+2022-09-01 13:15:35,547 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL VPN Users -- Success! -- 0ms
+
+2022-09-01 13:15:35,547 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRV Developer CIS Contractor -- Success! -- 0ms
+
+2022-09-01 13:15:35,552 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRV Developer CIS User Certs -- Success! -- 0ms
+
+2022-09-01 13:15:35,552 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRV CIS Weblink Users -- Success! -- 0ms
+
+2022-09-01 13:15:35,557 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL DRV CIS BioLink Users -- Success! -- 0ms
+
+2022-09-01 13:15:35,557 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL DL All Agency Contractors -- Success! -- 0ms
+
+2022-09-01 13:15:35,822 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = Group_9a371c98-9b5d-487c-814c-8ceefe3777fa -- Success! -- 0ms
+
+2022-09-01 13:15:35,827 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL Azure MFA Users -- Success! -- 0ms
+
+2022-09-01 13:15:35,827 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL-M365-EnterprisePremium -- Success! -- 0ms
+
+2022-09-01 13:15:35,832 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL-M365-EMSPremium -- Success! -- 0ms
+
+2022-09-01 13:15:35,832 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = U-S-DOL Teams Chat Retention 2 -- Success! -- 1ms
+
+2022-09-01 13:15:35,837 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = DOL DL IS CIS VALID Operations Notifications -- Success! -- 0ms
+
+2022-09-01 13:15:35,837 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = SSpring -- Success! -- 1ms
+
+2022-09-01 13:15:35,837 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @UserID = 1024 -- Success! -- 0ms
+
+2022-09-01 13:15:35,842 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetPermission @GroupID = 5 -- Success! -- 2ms
+
+2022-09-01 13:15:35,842 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @InGroups = 5 -- Success! -- 1ms
+
+2022-09-01 13:15:35,847 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetPermission @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:35,847 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpSaveAudit @IP = 192.168.206.1 @DateEvent = 9/1/2022 1:15:35 PM @ApplicationID = 1 @UserID = 1024 @EventCategoryID = 2 @SummaryID = 7 @Object = 1024 @ObjectName = SSpring -- Success! -- 0ms
+
+2022-09-01 13:15:35,852 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetEngine @Active = True @Dll =  -- Success! -- 0ms
+
+2022-09-01 13:15:35,852 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @EngineID = 8 -- Success! -- 1ms
+
+2022-09-01 13:15:35,857 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetEngineFeatures @EngineID = 8 -- Success! -- 0ms
+
+2022-09-01 13:15:36,052 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = CREATE_SHARED_ADHOC_INVESTIGATION -- Success! -- 1ms
+
+2022-09-01 13:15:36,067 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = SSpring -- Success! -- 1ms
+
+2022-09-01 13:15:36,072 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:15:36,072 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationRetained @MaxRetainedDays = 2 -- Success! -- 0ms
+
+2022-09-01 13:15:36,072 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:15:36,077 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser -- Success! -- 3ms
+
+2022-09-01 13:15:36,077 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationState -- Success! -- 0ms
+
+2022-09-01 13:15:36,077 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationResult -- Success! -- 0ms
+
+2022-09-01 13:15:36,082 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationType -- Success! -- 0ms
+
+2022-09-01 13:15:36,082 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetQueue -- Success! -- 0ms
+
+2022-09-01 13:15:36,932 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigation @InvestigationID =  @InvestigationIDs =  @InvestigationTypeID =  @Description =  @InvestigationStateID = 1 @AllNoneAssigned = 1 @StartRow = 1 @EndRow = 10 @LogedUser = 1024 @CustomField1Id = 8 @CustomField2Id = 3 @CustomField3Id = 4 @CustomField4Id = 2 @CustomField5Id = 6 -- Success! -- 92ms
+
+2022-09-01 13:15:36,937 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 433829a2-f73a-4183-8cdf-d55644574fdd -- Success! -- 2ms
+
+2022-09-01 13:15:36,942 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1933 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:36,942 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 4b1abda4-a1b2-423c-a2d8-6a1dc4572a08 -- Success! -- 2ms
+
+2022-09-01 13:15:36,947 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1932 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:36,947 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9880b601-0f25-4e7b-9f2c-758e50a0f163 -- Success! -- 2ms
+
+2022-09-01 13:15:36,952 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1931 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,952 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 19cade8e-2256-4077-8d2b-722387e0f539 -- Success! -- 2ms
+
+2022-09-01 13:15:36,957 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1930 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:36,957 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = d31c91a5-b08d-46bc-abdf-864bde946dbf -- Success! -- 2ms
+
+2022-09-01 13:15:36,962 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1929 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,962 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b23f988-a0e6-4019-88d4-26f933817174 -- Success! -- 2ms
+
+2022-09-01 13:15:36,967 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1928 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,967 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b18222a-d37c-4944-b7db-09222ec10a72 -- Success! -- 2ms
+
+2022-09-01 13:15:36,972 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1927 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,972 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 1da18b4a-c723-45b6-a66c-f4c373886376 -- Success! -- 2ms
+
+2022-09-01 13:15:36,977 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1926 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,977 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 26b65acd-0788-4f27-bafb-e429498f2deb -- Success! -- 2ms
+
+2022-09-01 13:15:36,982 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1925 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,982 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 646593cd-3e50-44e7-bfff-6539eec1c102 -- Success! -- 2ms
+
+2022-09-01 13:15:36,987 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1924 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:36,987 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 143718df-fac8-4d6e-b2f9-cecd318d2f66 -- Success! -- 1ms
+
+2022-09-01 13:15:36,992 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 65c7ffcb-5624-49e7-b8ff-a3ea0ddc4637 -- Success! -- 1ms
+
+2022-09-01 13:15:36,992 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = fc32c5fe-da9e-45e1-a505-aa387c4f80d0 -- Success! -- 1ms
+
+2022-09-01 13:15:36,992 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = d7b073f0-351b-460d-b0a9-9c60562a9a01 -- Success! -- 1ms
+
+2022-09-01 13:15:36,997 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 318b7914-850c-4816-9ce0-5a089d8d3a9f -- Success! -- 1ms
+
+2022-09-01 13:15:36,997 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = bd997a4f-5c2d-4e25-a6c1-0d180df46163 -- Success! -- 1ms
+
+2022-09-01 13:15:36,997 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 4c8edd4e-2aa9-466e-b2ed-f94884f46d8d -- Success! -- 1ms
+
+2022-09-01 13:15:37,002 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = c3bf0d44-21aa-4be0-bfdc-3e9a1f4e7a04 -- Success! -- 1ms
+
+2022-09-01 13:15:37,002 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = a170fa96-3ec5-4ddd-8ab7-c3799a9e2c0e -- Success! -- 1ms
+
+2022-09-01 13:15:37,002 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 62b7cb67-8328-467f-bd75-d406a367c145 -- Success! -- 1ms
+
+2022-09-01 13:15:37,042 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,062 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageField -- Success! -- 1ms
+
+2022-09-01 13:15:37,082 [136] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,097 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,207 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigation @InvestigationID =  @InvestigationIDs =  @InvestigationTypeID =  @Description =  @InvestigationStateID = 1 @AllNoneAssigned = 1 @StartRow = 1 @EndRow = 10 @LogedUser = 1024 @CustomField1Id = 8 @CustomField2Id = 3 @CustomField3Id = 4 @CustomField4Id = 2 @CustomField5Id = 6 -- Success! -- 29ms
+
+2022-09-01 13:15:37,207 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 433829a2-f73a-4183-8cdf-d55644574fdd -- Success! -- 2ms
+
+2022-09-01 13:15:37,212 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1933 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:37,212 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 4b1abda4-a1b2-423c-a2d8-6a1dc4572a08 -- Success! -- 2ms
+
+2022-09-01 13:15:37,217 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1932 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:37,217 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9880b601-0f25-4e7b-9f2c-758e50a0f163 -- Success! -- 2ms
+
+2022-09-01 13:15:37,222 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1931 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:37,222 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 19cade8e-2256-4077-8d2b-722387e0f539 -- Success! -- 2ms
+
+2022-09-01 13:15:37,227 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1930 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:37,227 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = d31c91a5-b08d-46bc-abdf-864bde946dbf -- Success! -- 2ms
+
+2022-09-01 13:15:37,232 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1929 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:37,232 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b23f988-a0e6-4019-88d4-26f933817174 -- Success! -- 2ms
+
+2022-09-01 13:15:37,237 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1928 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:37,237 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 9b18222a-d37c-4944-b7db-09222ec10a72 -- Success! -- 2ms
+
+2022-09-01 13:15:37,242 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1927 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:37,242 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 1da18b4a-c723-45b6-a66c-f4c373886376 -- Success! -- 2ms
+
+2022-09-01 13:15:37,247 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1926 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:37,247 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 26b65acd-0788-4f27-bafb-e429498f2deb -- Success! -- 2ms
+
+2022-09-01 13:15:37,252 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1925 @IsDeleted = False -- Success! -- 1ms
+
+2022-09-01 13:15:37,252 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetTransaction @TransactionID = 646593cd-3e50-44e7-bfff-6539eec1c102 -- Success! -- 2ms
+
+2022-09-01 13:15:37,257 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSuspect @InvestigationID = 1924 @IsDeleted = False -- Success! -- 2ms
+
+2022-09-01 13:15:37,257 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 143718df-fac8-4d6e-b2f9-cecd318d2f66 -- Success! -- 1ms
+
+2022-09-01 13:15:37,262 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 65c7ffcb-5624-49e7-b8ff-a3ea0ddc4637 -- Success! -- 1ms
+
+2022-09-01 13:15:37,262 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = fc32c5fe-da9e-45e1-a505-aa387c4f80d0 -- Success! -- 1ms
+
+2022-09-01 13:15:37,262 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = d7b073f0-351b-460d-b0a9-9c60562a9a01 -- Success! -- 1ms
+
+2022-09-01 13:15:37,267 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 318b7914-850c-4816-9ce0-5a089d8d3a9f -- Success! -- 1ms
+
+2022-09-01 13:15:37,267 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = bd997a4f-5c2d-4e25-a6c1-0d180df46163 -- Success! -- 1ms
+
+2022-09-01 13:15:37,267 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 4c8edd4e-2aa9-466e-b2ed-f94884f46d8d -- Success! -- 1ms
+
+2022-09-01 13:15:37,272 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = c3bf0d44-21aa-4be0-bfdc-3e9a1f4e7a04 -- Success! -- 1ms
+
+2022-09-01 13:15:37,272 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = a170fa96-3ec5-4ddd-8ab7-c3799a9e2c0e -- Success! -- 1ms
+
+2022-09-01 13:15:37,272 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageValue @SubjectImageID = 62b7cb67-8328-467f-bd75-d406a367c145 -- Success! -- 1ms
+
+2022-09-01 13:15:37,277 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,277 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 1ms
+
+2022-09-01 13:15:37,277 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,282 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,282 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,282 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,282 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 1ms
+
+2022-09-01 13:15:37,287 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,287 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,287 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = NUMBER_OF_PRECISION_DIGITS_IN_SCORE_DISPLAY -- Success! -- 0ms
+
+2022-09-01 13:15:37,327 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,347 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,377 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,392 [130] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:37,417 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationWorkList @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:15:46,709 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetEventCategory -- Success! -- 2ms
+
+2022-09-01 13:15:46,719 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSummary -- Success! -- 2ms
+
+2022-09-01 13:15:46,719 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser -- Success! -- 3ms
+
+2022-09-01 13:15:46,739 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = SSpring -- Success! -- 1ms
+
+2022-09-01 13:15:46,739 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:15:46,739 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationRetained @MaxRetainedDays = 2 -- Success! -- 0ms
+
+2022-09-01 13:15:46,744 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:15:48,670 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @StartRow = 1 @EndRow = 10 -- Success! -- 4ms
+
+2022-09-01 13:15:48,730 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAuditLog @AuditID = -1 -- Success! -- 22ms
+
+2022-09-01 13:15:58,692 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 8 @StartRow = 1 @EndRow = 10 -- Success! -- 77ms
+
+2022-09-01 13:16:08,759 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 1 @EndRow = 10 -- Success! -- 60ms
+
+2022-09-01 13:16:08,764 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,764 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,764 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,769 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,769 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,769 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,774 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:08,774 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:08,774 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:08,774 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:15,779 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 41 @EndRow = 50 -- Success! -- 79ms
+
+2022-09-01 13:16:15,779 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,784 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,784 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,784 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,784 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,789 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,789 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,789 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,794 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:15,794 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,207 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 7041 @EndRow = 7050 -- Success! -- 68ms
+
+2022-09-01 13:16:19,207 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,212 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,212 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,212 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,217 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,217 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,217 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,222 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:19,222 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,103 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 7031 @EndRow = 7040 -- Success! -- 68ms
+
+2022-09-01 13:16:22,108 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,108 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,108 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,113 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,113 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:22,113 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,118 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,118 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,118 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:22,118 [12] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,175 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 7021 @EndRow = 7030 -- Success! -- 69ms
+
+2022-09-01 13:16:25,180 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,180 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,180 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,185 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,185 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,185 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,190 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,190 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:25,190 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,812 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 7011 @EndRow = 7020 -- Success! -- 69ms
+
+2022-09-01 13:16:29,812 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,817 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,817 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,817 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,822 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,822 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,822 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:29,827 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,827 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:29,827 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,273 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 7001 @EndRow = 7010 -- Success! -- 68ms
+
+2022-09-01 13:16:32,279 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,279 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,279 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,283 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,283 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,283 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,288 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,288 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,288 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:32,294 [14] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,869 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6991 @EndRow = 7000 -- Success! -- 69ms
+
+2022-09-01 13:16:33,874 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,874 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,874 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,879 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,879 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,879 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,884 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,884 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,884 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:33,889 [127] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:35,286 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6981 @EndRow = 6990 -- Success! -- 81ms
+
+2022-09-01 13:16:35,286 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:35,286 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,291 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,291 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,291 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,296 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:35,296 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,296 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,296 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:35,301 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,207 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6971 @EndRow = 6980 -- Success! -- 68ms
+
+2022-09-01 13:16:36,207 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,212 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,212 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,212 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,217 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,217 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,217 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,222 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,222 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:36,222 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,085 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6961 @EndRow = 6970 -- Success! -- 68ms
+
+2022-09-01 13:16:37,085 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,085 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,090 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,090 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,090 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,095 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,095 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,095 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,100 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,100 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,916 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6951 @EndRow = 6960 -- Success! -- 69ms
+
+2022-09-01 13:16:37,916 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,916 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,921 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,921 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,921 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,926 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,926 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,926 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:37,931 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,706 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6941 @EndRow = 6950 -- Success! -- 69ms
+
+2022-09-01 13:16:38,706 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,711 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,711 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,716 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,716 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,716 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,721 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,721 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,721 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:38,721 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,841 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6931 @EndRow = 6940 -- Success! -- 69ms
+
+2022-09-01 13:16:39,841 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,846 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,846 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,846 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,851 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,851 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,851 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,856 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,856 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:39,856 [104] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,803 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6921 @EndRow = 6930 -- Success! -- 68ms
+
+2022-09-01 13:16:40,803 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,808 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,808 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,808 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:40,808 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,813 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,813 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:40,813 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,818 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:40,818 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,743 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6911 @EndRow = 6920 -- Success! -- 69ms
+
+2022-09-01 13:16:41,748 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 2ms
+
+2022-09-01 13:16:41,748 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,753 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,753 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,753 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,758 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,758 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,758 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,758 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:41,763 [21] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,603 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6901 @EndRow = 6910 -- Success! -- 68ms
+
+2022-09-01 13:16:42,603 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,608 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,608 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,608 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,608 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,613 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,613 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,613 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,618 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:42,618 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,503 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6891 @EndRow = 6900 -- Success! -- 68ms
+
+2022-09-01 13:16:43,503 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,508 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,508 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,508 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,508 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,513 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,513 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,513 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,518 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:43,518 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:44,363 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6881 @EndRow = 6890 -- Success! -- 69ms
+
+2022-09-01 13:16:44,363 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:44,363 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:44,368 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:44,368 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:44,368 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:44,373 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 0ms
+
+2022-09-01 13:16:44,373 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:44,373 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:44,378 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:44,378 [22] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,258 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6871 @EndRow = 6880 -- Success! -- 79ms
+
+2022-09-01 13:16:45,258 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,258 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,263 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,263 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,263 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,268 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,268 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,268 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,273 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:45,273 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,290 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6861 @EndRow = 6870 -- Success! -- 68ms
+
+2022-09-01 13:16:46,295 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,295 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,300 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,300 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,300 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,300 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,305 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,305 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,305 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:46,310 [19] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,102 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6851 @EndRow = 6860 -- Success! -- 68ms
+
+2022-09-01 13:16:47,107 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,107 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,107 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,112 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,112 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,112 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,117 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,117 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,117 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:47,122 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,215 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6841 @EndRow = 6850 -- Success! -- 68ms
+
+2022-09-01 13:16:48,220 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,220 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,225 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,225 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,225 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,225 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,230 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,230 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,230 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:48,235 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,261 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 6831 @EndRow = 6840 -- Success! -- 68ms
+
+2022-09-01 13:16:49,261 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,266 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,266 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,266 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,271 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,271 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,271 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,276 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,276 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:49,276 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,780 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 9 @StartRow = 7041 @EndRow = 7050 -- Success! -- 60ms
+
+2022-09-01 13:16:51,780 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,785 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,785 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,785 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,790 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,790 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,790 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,790 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:16:51,795 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 7 -- Success! -- 1ms
+
+2022-09-01 13:17:06,990 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 3 @StartRow = 1 @EndRow = 10 -- Success! -- 1ms
+
+2022-09-01 13:17:06,990 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:17:06,995 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:17:06,995 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:17:06,995 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:07,000 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:07,000 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:07,000 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:07,000 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:07,005 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:07,005 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:17,993 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 3 @StartRow = 11 @EndRow = 20 -- Success! -- 9ms
+
+2022-09-01 13:17:17,993 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:17,993 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:17,998 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:17,998 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:17,998 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:17,998 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,533 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 3 @StartRow = 1 @EndRow = 10 -- Success! -- 1ms
+
+2022-09-01 13:17:21,538 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:17:21,538 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:17:21,538 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:17:21,543 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,543 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,543 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,548 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,548 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,548 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:21,553 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:40,390 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 4 @StartRow = 1 @EndRow = 10 -- Success! -- 2ms
+
+2022-09-01 13:17:40,390 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:40,390 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:40,395 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:40,395 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:40,395 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:40,400 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:40,400 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:40,400 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:40,405 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:40,405 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:44,193 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 4 @StartRow = 51 @EndRow = 60 -- Success! -- 12ms
+
+2022-09-01 13:17:44,193 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:17:44,198 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,198 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,198 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,203 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,203 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,203 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,208 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,208 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:44,208 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:17:58,290 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 2 @StartRow = 1 @EndRow = 10 -- Success! -- 3ms
+
+2022-09-01 13:17:58,290 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:17:58,290 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:17:58,295 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:17:58,295 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:17:58,295 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1090 -- Success! -- 1ms
+
+2022-09-01 13:17:58,300 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1090 -- Success! -- 1ms
+
+2022-09-01 13:17:58,300 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:17:58,300 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:17:58,305 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:17:58,305 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:18:03,849 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 2 @StartRow = 231 @EndRow = 240 -- Success! -- 15ms
+
+2022-09-01 13:18:03,849 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:03,854 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:03,854 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:03,854 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:03,859 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:03,859 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:03,859 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:03,859 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 1ms
+
+2022-09-01 13:18:03,864 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:03,864 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:18:07,380 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 2 @StartRow = 221 @EndRow = 230 -- Success! -- 16ms
+
+2022-09-01 13:18:07,380 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,385 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,385 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,385 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,390 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,390 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,390 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,395 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:07,395 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:07,395 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:09,467 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 2 @StartRow = 211 @EndRow = 220 -- Success! -- 16ms
+
+2022-09-01 13:18:09,467 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:18:09,472 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 3ms
+
+2022-09-01 13:18:09,472 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1024 -- Success! -- 1ms
+
+2022-09-01 13:18:09,472 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:18:09,477 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1003 -- Success! -- 1ms
+
+2022-09-01 13:18:09,477 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1103 -- Success! -- 0ms
+
+2022-09-01 13:18:09,477 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:09,482 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:09,482 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1034 -- Success! -- 1ms
+
+2022-09-01 13:18:09,482 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1039 -- Success! -- 1ms
+
+2022-09-01 13:18:25,433 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 10 @StartRow = 1 @EndRow = 10 -- Success! -- 9ms
+
+2022-09-01 13:18:25,433 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,438 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,438 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,438 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,438 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,443 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,443 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,443 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,448 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:25,448 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:28,082 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 10 @StartRow = 861 @EndRow = 870 -- Success! -- 19ms
+
+2022-09-01 13:18:28,082 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:28,082 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:28,087 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:28,087 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:28,087 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:28,092 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:28,092 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:28,092 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:28,092 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:28,097 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:31,831 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 10 @StartRow = 851 @EndRow = 860 -- Success! -- 20ms
+
+2022-09-01 13:18:31,837 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:31,837 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:31,837 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:31,841 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:31,841 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:31,841 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:31,841 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:31,846 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:31,846 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:31,846 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 0ms
+
+2022-09-01 13:18:33,457 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 10 @StartRow = 841 @EndRow = 850 -- Success! -- 20ms
+
+2022-09-01 13:18:33,462 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,462 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,462 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,462 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,467 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,467 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,467 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,472 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,472 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:33,472 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserID = 1 -- Success! -- 1ms
+
+2022-09-01 13:18:43,419 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetAudit @EventCategoryID = 12 @StartRow = 1 @EndRow = 10 -- Success! -- 1ms
+
+2022-09-01 13:18:56,706 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = SSpring -- Success! -- 1ms
+
+2022-09-01 13:18:56,711 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:18:56,711 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationRetained @MaxRetainedDays = 2 -- Success! -- 0ms
+
+2022-09-01 13:18:56,711 [107] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 1ms
+
+2022-09-01 13:18:57,241 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = DIR_LOG_FILE -- Success! -- 1ms
+
+2022-09-01 13:19:18,546 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = DIR_LOG_FILE -- Success! -- 1ms
+
+2022-09-01 13:20:01,752 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetUser @UserName = SSpring -- Success! -- 1ms
+
+2022-09-01 13:20:01,752 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:20:01,752 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetInvestigationRetained @MaxRetainedDays = 2 -- Success! -- 0ms
+
+2022-09-01 13:20:01,757 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = MAX_Personal_WORKAREA_RETAINED_DAYS -- Success! -- 0ms
+
+2022-09-01 13:20:01,772 [108] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetCustomFieldsFilter @Type = 0 -- Success! -- 7ms
+
+2022-09-01 13:20:08,177 [123] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSubjectByImageData @SubjectKey = 5944864 @StartRow = 1 @EndRow = 10 -- Success! -- 25ms
+
+2022-09-01 13:20:22,252 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSubjectByImageData @SubjectKey = 1003337 @StartRow = 1 @EndRow = 10 -- Success! -- 4ms
+
+2022-09-01 13:20:22,427 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSubjectImage @SubjectID = 3862 @Last = True -- Success! -- 98ms
+
+2022-09-01 13:20:22,437 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSubject @SubjectID = 3862 -- Success! -- 1ms
+
+2022-09-01 13:20:22,442 [103] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetImageType @ImageTypeID = 1 -- Success! -- 0ms

@@ -1,0 +1,19 @@
+Hi. My name is Anthony.
+Hi. My name is Mud.
+What's going on here? SpGetSubjectByImageData
+Oh, my. This is not fun anymore.
+2022-09-01 08:23:43,524 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION -- Success! -- 18ms
+
+2022-09-01 08:23:44,179 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION_DOMAINNAME -- Success! -- 4ms
+
+2022-09-01 08:23:44,179 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetSetting @SettingID = AD_AUTHENTICATION_CONTAINER -- Success! -- 0ms
+
+2022-09-01 08:23:45,329 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = Domain Users -- Success! -- 2ms
+
+2022-09-01 08:23:45,394 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL SP Collab EGuide Read -- Success! -- 0ms
+
+2022-09-01 08:23:45,394 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL SP Read -- Success! -- 0ms
+
+2022-09-01 08:23:45,399 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL IS HP3000 QA Testers -- Success! -- 0ms
+
+2022-09-01 08:23:45,399 [100] DEBUG Valid.Utility.DbCom.SpRun [(null)] - Exec SpGetGroup @Name = G-S-DOL BPD VENTURE -- Success! -- 0ms
