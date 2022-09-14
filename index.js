@@ -66,7 +66,7 @@ if (ifDirExists("files")) {
     if (!ifDirExists(destinationDir)) {
         fs.mkdirSync(path.join(__dirname, destinationDir));
     }
-    const logReadResults = fileList()
+    const allResults = fileList()
     .then((data) => {
         data.dirFiles = data.map((value) => {
             return value.name;
@@ -94,10 +94,22 @@ if (ifDirExists("files")) {
             data.summary.logsProcessed += result.logsInFile;
             data.summary.searchLogsFound += result.searchLogsInFile;
         });
-        console.log(data);
         return(data);
     })
     .catch((err) => {
         console.error(err);
+    });
+
+    allResults.then((data) => {
+        // console.log(data);
+        const writeData = {
+            files: data,
+            fileNames: data.dirFiles,
+            allResults: data.allResults,
+            summary: data.summary
+        }
+        fs.writeFile(path.join(__dirname, destinationDir, "finalResults.txt"), JSON.stringify(writeData, null, 2).replaceAll(/\\\\/g,'\\'), (err) => {
+            if (err) throw err;
+        });
     });
 }
