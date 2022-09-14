@@ -9,47 +9,54 @@ const ifDirExists = (dirNameStr) => {
 
 // reads the content of the given directory and returns a list of files
 const fileList = async () => {
-    try {
-        const options = {
-            encoding: 'utf8',
-            withFileTypes: true
-        }
-        const files = await fsPromises.readdir(path.join(__dirname,"files"), options);
+    const options = {
+        encoding: 'utf8',
+        withFileTypes: true
+    }
+    return await fsPromises.readdir(path.join(__dirname,"files"), options)
+    .then((files) => {
         const fileArray = [];
         for (const file of files)
             fileArray.push(file);
         return fileArray;
-        } catch (err) {
+    })
+    .catch((err) => {
         console.error(err);
-    }
-}
+    });
+};
 
 // reads the files returned by the file list, checks them for search logs, dumps the search logs in a file, drops results in the file
-const fileOps = async (fileName, destinationDir) => {
-    try {
-        const data = await fsPromises.readFile(path.join(__dirname,'files', fileName), 'utf8');
+const fileOps = (fileName, destinationDir) => {
+    return fsPromises.readFile(path.join(__dirname,'files', fileName), 'utf8')
+    .then((data) => {
         lineData = data.split('\n');
         filteredData = lineData.filter((value) => {
             return value.indexOf('SpGetSubjectByImageData') > 0 && value.length > 1;
         });
-        
-        let result = {
+        const result = {
             filename: path.join(__dirname,'files', fileName).replaceAll(/\\\\/g,'\\'),
             resultsFilename: path.join(__dirname,destinationDir,`${fileName}_resultsComplete`),
             logsInFile: Math.floor(lineData.length / 2),
             searchLogsInFile: filteredData.length
-        }
-
-        await fsPromises.writeFile(path.join(__dirname, destinationDir,`${fileName}_results`), filteredData);
-        await fsPromises.appendFile(path.join(__dirname, destinationDir,`${fileName}_results`), JSON.stringify(result, null, 2).replaceAll(/\\\\/g,'\\'));
-        await fsPromises.rename(path.join(__dirname, destinationDir,`${fileName}_results`), path.join(__dirname,destinationDir,`${fileName}_resultsComplete`));
-
+        };
         return result;
-    } catch (err) {
+    })
+    .then((result) => {
+        fsPromises.writeFile(path.join(__dirname, destinationDir,`${fileName}_results`), filteredData)
+        .then(() => {
+            fsPromises.appendFile(path.join(__dirname, destinationDir,`${fileName}_results`), JSON.stringify(result, null, 2).replaceAll(/\\\\/g,'\\'))
+            .then(() => {
+                fsPromises.rename(path.join(__dirname, destinationDir,`${fileName}_results`), path.join(__dirname,destinationDir,`${fileName}_resultsComplete`))
+            })
+        })
+        return result;
+    })
+    .then((result) => {
+        return result;
+    }).catch ((err) => {
         console.error(err);
-    }
+    })
 }
-
 
 // set the result directory
 let destinationDir = "results";
@@ -59,7 +66,7 @@ if (ifDirExists("files")) {
     if (!ifDirExists(destinationDir)) {
         fs.mkdirSync(path.join(__dirname, destinationDir));
     }
-    fileList()
+    const logReadResults = fileList()
     .then((data) => {
         data.dirFiles = data.map((value) => {
             return value.name;
@@ -67,28 +74,30 @@ if (ifDirExists("files")) {
         return data;
     })
     .then((data) => {
-        const results = [];
-        data.dirFiles.forEach((fileName) => {
-            results.push(fileOps(fileName, destinationDir));
+        const allResults = data.dirFiles.map((fileName) => {
+            return fileOps(fileName, destinationDir).then((result) => { return result});
         });
-        data.allResults = results;
-        return data;
+        return Promise.all(allResults).then((resolvedPromises) => {
+            data.allResults = resolvedPromises;
+            return data;
+        })
     })
     .then((data) => {
+        return(data);
+    })
+    .then((data) => {
+        data.summary = {
+            logsProcessed: 0,
+            searchLogsFound: 0
+        };
+        data.allResults.forEach((result) => {
+            data.summary.logsProcessed += result.logsInFile;
+            data.summary.searchLogsFound += result.searchLogsInFile;
+        });
         console.log(data);
-    });
-}
-
-/*
-
-    .then((data) => {
-        data.allResults = data.dirFiles.map((fileName) => {
-            return fileOps(fileName, destinationDir);
-        });
-        return data;
+        return(data);
     })
-    .then((data) => {
-        console.log(data.allResults);
+    .catch((err) => {
+        console.error(err);
     });
 }
-*/
